@@ -1,0 +1,6 @@
+{
+  "name": "Space Mission Control Hero",
+  "description": "A high-fidelity, futuristic space mission control dashboard hero section based on the OrbitX reference layout, stripped of background imagery with a pure black backdrop, featuring live telemetry and interactive sliders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
